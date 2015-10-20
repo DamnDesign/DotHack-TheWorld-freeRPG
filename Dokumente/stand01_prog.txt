@@ -1,7 +1,15 @@
-Da wir ein Rollenspiel machen wollen, sollte man sich in die Seite **einloggen** können.
-Ebenfalls möchte man Charaktereigenschaften haben, welche bei bestimmten Aktionen benötigt werden (**Stats**), welche in einem **Charakterbogen** festgehalten werden.
-Damit das Spiel nicht zu eintönig wird, kann man an bestimmten Orten **Zufallevents** einprogramieren.
+Da wir ein Rollenspiel machen wollen, sollte man sich in die Seite einloggen können.
+Ebenfalls möchte man Charaktereigenschaften haben, welche bei bestimmten Aktionen benötigt werden (Stats), welche in einem Charakterbogen festgehalten werden.
+Damit das Spiel nicht zu eintönig wird, kann man an bestimmten Orten Zufallevents einprogramieren.
 
-Das sind soweit die *Ingame-Funktionen*
+Das sind soweit die Ingame-Funktionen
 
-Außerhalb des Spiels wäre es auch sinnvoll ein funktionierendes **Kontaktformular** zu benutzen.
+Außerhalb des Spiels wäre es auch sinnvoll ein funktionierendes Kontaktformular zu benutzen.
+
+Also:
+
+-Login
+-Stats
+-Charakterbogen
+-Zufallevents
+-Kontaktformular
