@@ -13,7 +13,7 @@
 	</p>
 
 	<p>
-  	<label for="nachricht">Nachricht</label><br />      
+  		<label for="nachricht">Nachricht</label><br />      
 		<textarea id="nachricht" type="text" name="nachricht" cols="40" rows="5"><?php echo $nachricht; ?></textarea>
 	</p>
 
