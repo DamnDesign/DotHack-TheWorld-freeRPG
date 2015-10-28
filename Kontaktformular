@@ -1,0 +1,63 @@
+<?php
+
+	$mail = isset($_POST['mail']) ? $_POST['mail'] : "";
+	$nachricht = isset($_POST['nachricht']) ? $_POST['nachricht'] : "";
+
+?>
+
+<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" name="formular">
+
+	<p>
+		<label for="mail">E-Mail-Adresse</label><br />      
+		<input id="mail" type="email" name="mail" value="<?php echo $mail; ?>" />
+	</p>
+
+	<p>
+  	<label for="nachricht">Nachricht</label><br />      
+		<textarea id="nachricht" type="text" name="nachricht" cols="40" rows="5"><?php echo $nachricht; ?></textarea>
+	</p>
+
+	<p>     
+		<input id="senden" type="submit" name="senden" value="Senden" />
+	</p>
+
+</form>
+
+<?php
+
+	if(isset($_POST['senden']))
+	{
+	
+		$mail = $_POST['mail'];
+		$nachricht = $_POST['nachricht'];
+	
+		if(empty($mail))
+		{
+			echo "<script>alert('Bitte eine E-Mail-Adresse eingeben.')</script>";
+			echo "<script>document.formular.mail.focus()</script>";
+			exit;
+		}
+	
+		if(!preg_match("/^[a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z]{2,5}$/", $mail))
+		{
+			echo "<script>alert('Bitte eine richtige E-Mail-Adresse eingeben.')</script>";
+			echo "<script>document.formular.mail.focus()</script>";
+			exit;
+		}
+				
+		echo "<hr>";
+		echo "E-Mail-Adresse: $mail <br />";
+		echo "Nachricht: $nachricht <br />";
+
+		$betreff = "Kontaktformular";
+	
+
+		$inhalt = "E-Mail-Adresse: " . $mail . "\n\n";
+		$inhalt .= $nachricht;
+	
+		mail("email@adresse.de", $betreff, $inhalt); //hier muss die richtige E--Mail eingetragen werden, welche man für Kontaktanfragen benutzt
+	
+		echo "<script>alert('Das Formular wurde erfolgreich verschickt.')</script>";
+	
+	}
+?>
