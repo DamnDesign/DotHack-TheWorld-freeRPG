@@ -1,0 +1,37 @@
+Hauptoberfläche:
+Diese besteht im Grunde durchgehen, ob nun im Vordergrund oder im Hintergrund. Sie beinhaltet eine Menüleiste mit 4 (bzw. 5) Funktionsfeldern. 
+Zum einen "Spiel", welches das Spiel an sich in einem neuen Fenster innerhalb der Hauptoberfläche öffnet.
+"Hintergrund/Wiki" für Infomationen zu dem Original Spiel (evtl, bzw in Überlegung)
+"Kontakt" soll ein Fenster mit Kontaktinformationen öffnen
+"About us" Informationen zu uns (den Entwicklern)
+"Skills/Characterbogen", welches ein Fenster öffnet das Informationen zu dem Spielcharacter liefert. Alternativ könnte dies auch eine feste Menüleiste am Bildrand sein. In Überlegung.
+Grund: Diese Art der Nutzeroberfläche spezifisch wurde als Annäherung (Erinnerung) an den Menüaufbau aus dem Spiel ".Hack" ausgewählt, welches die Grundlage für unser Projekt ist. 
+	 
+Die Menü-Leiste:
+Soll fest am Bildrand verankert sein, und somit dauerhaft sichtbar, auch wenn man das Spiel selbst geöffnet hat.
+Grund: Ein ständig öffenes Menu verbessert die Übersicht und das Zurechtfinden auf der Seite. Außerdem hat man so ständig Zugriff auf die Menü-Funktionen.
+
+"Spiel"-Fenster:
+Dieses wird das eigentliche Spiel enthalten. Also die Texte, eventuell einen Header sowie Auswahlmöglichkeiten zu Aktionen und Bewegungen.
+Dieses soll durch Direktlinks im oder unter dem Text realisiert werden.
+Grund: Das Fenster soll durch einen Druck auf den "Spiel"-Button zu öffnen und zu schließen sein, im Hintergrund bleibt weiter die Hauptoberfläche.
+
+Hintergrund/Wiki:
+Dieser Punkt ist derzeit noch in Planung und steht ganz am Ende der Liste an Inhalten die eingebaut werden sollen.
+In etwa wird das Wiki eine Sammlung an Informationen zu unserem Spiel und allgemein über die Welt von .Hack, "The World".
+Grund: Als Textbasiert Browsergame in einer bereits bestehenden Spielwelt ist es vorteilhaft, bzw interessant zu erfahren worum es in diesem überhaupt geht. 
+Im eigentlichen Browsergame würde diese Fülle an Informationen aber schlichtweg den Rahmen sprengen, deshalb der eigene Menüpunkt. 
+
+Kontakt:
+Öffnet ein Fenster mit einem Kontaktformular.
+Grund: Zur Mitteilung bei Buggs, Fehler oder ähnlichem.
+
+
+About us:
+Dieser Menüpunkt soll ein Fenster mit Informationen über uns (die Entwickler) öffnen.
+Grund: "Weil sich das so gehört"? Informationen über die Entwickler gehoren bei Spielen, auch bei Browsergames einfach dazu.
+
+"Skills/Characterbogen":
+Soll ein Fenster mit Informationen zu dem Spieler (Character) öffnen. Dazu gehören die Stats, eventuell eine Beschreibung sowie zu zur Verfügung stehenden Skills.
+Es war erst die überlegung dieses Fenster am Bildrand zu verankern, aber letztendlich haben für uns für einen Menü-Unterpunkt entschieden. Einfach der Übersicht wegen.
+Grund: Die Spieler sollen Informationen zum aktuellen Stand (stats) ihrer Charactere bekommen.
