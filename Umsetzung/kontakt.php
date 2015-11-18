@@ -1,4 +1,4 @@
-<!-- Platzhalter + Grundgerüst. Bisher leer. Hier sollen Kontaktdaten/ das Kontaktformular hin, das Kontaktformular in php wurde bereits erstellt, muss hier lediglich noch eingebaut werden... -->
+<!-- Platzhalter + Grundgerüst. Unvollständig. Hier sollen Kontaktdaten/ das Kontaktformular hin, das Kontaktformular in php wurde bereits erstellt, muss hier lediglich noch eingebaut werden... -->
 
 
 <!DOCTYPE html>
