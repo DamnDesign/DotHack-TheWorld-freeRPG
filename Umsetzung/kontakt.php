@@ -113,3 +113,11 @@
 	</body>
 
 </html>
+
+<!--
+=== Kommentar Alpers, nov 27 ===
+
+Wenn Sie PHP mit <?php ?> in ein HTML-Dokument integrieren, dann sollte die Datei weiterhin auf .html enden.
+Ansonsten ein guter Anfang.
+
+=== Kommentar
