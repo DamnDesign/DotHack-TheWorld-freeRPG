@@ -1,6 +1,3 @@
-<!-- Platzhalter + Grundgerüst. Unvollständig. Hier sollen Kontaktdaten/ das Kontaktformular hin, das Kontaktformular in php wurde bereits erstellt, muss hier lediglich noch eingebaut werden... -->
-
-
 <!DOCTYPE html>
 <html lang=de>
 
@@ -8,7 +5,7 @@
 		<meta charset="utf-8">
 		<title>Projekt DotHack</title>
 		
-		<meta name="describtion" content="Hier finden Sie unser Projekt "DotHack-TheWorld-freeRPG"">
+		<meta name="describtion" content="Hier finden Sie unser Projekt 'DotHack-TheWorld-freeRPG'">
 		
 		<link href="style.css" rel="stylesheet" media="screen">
 	</head>
@@ -24,11 +21,11 @@
 					<div id="menu">
 												
 						<ul>
-							<li id="spiel"><a href="#spiel.html"><img src="#" alt="Spiel"></a></li>	<!-- kommt noch! -->
-							<li id="character"><a href="#character.html"><img src="#" alt="Characterbogen/ Skills"></a></li>	<!-- kommt noch! -->
-							<li id="wiki"><a href="#wiki.html"><img src="#" alt="Wiki"></a></li>	<!-- kommt noch! -->
-							<li id="about"><a href="#about_us.html"><img src="#" alt="About us"></a></li>	<!-- kommt noch! -->
-							<li id="kontakt"><a href="#kontakt.php"><img src="#" alt="Kontaktformular"></a></li>	<!-- kommt noch! -->
+							<li id="spiel"><a href="#spiel.html"><img src="#" alt="Spiel"></a></li>
+							<li id="character"><a href="#character.html"><img src="#" alt="Characterbogen/ Skills"></a></li>
+							<li id="wiki"><a href="#wiki.html"><img src="#" alt="Wiki"></a></li>
+							<li id="about"><a href="#about_us.html"><img src="#" alt="About us"></a></li>
+							<li id="kontakt"><a href="#kontakt.php"><img src="#" alt="Kontaktformular"></a></li>
 						</ul>	
 						
 					</div> <!-- menu ENDE -->
