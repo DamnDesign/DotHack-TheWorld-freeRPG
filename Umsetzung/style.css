@@ -3,6 +3,7 @@ Stylesheet für die Hauptseite des Projekts (Layout)
 Stand: in Ausarbeitung: 17.11.2015
 Datei: style.css
 
+
 Aufbau: 1. Kalibrierung
 		    2. Allgemeine Styles
 	    	3. Style für Layoutbereiche
@@ -17,7 +18,8 @@ Aufbau: 1. Kalibrierung
  /* ===============================================
 		2. ALLGEMEINE STYLES
     =============================================== */   
-   
+
+/* !!!Ich nehm den CSS-Teil erst mal raus!!!
 body {
 	background: #fff none repeat scroll 0 0;
 	border: none 0;
@@ -57,11 +59,11 @@ h2 { font-size: 150%; }
 	padding:0 0 1em 0;
 	overflow:hidden;
 }
-
+*/
    /* ===============================================
 		3. STYLES FÜR DIE LAYOUTBEREICHE
       =============================================== */   
-
+/*
 .leftmenu {
 	background:#fff;		
 }
@@ -132,17 +134,8 @@ h2 { font-size: 150%; }
 	#main {
 		display: inline;
 	}
-
-/* #test {
-	height: 580px;
-	background-color: grey;
-	margin-top: 10px;
-	margin-right: 10px;
-	margin-bottom: 10px;
-	margin-left: 200px; 	
-	padding: 10px;
-	border: 1px solid black;
-  } */
+  
+  */
 
   /*
   === Kommentar Alpers, nov 27 ===
