@@ -1,4 +1,4 @@
-Hauptoberfläche:
+﻿Hauptoberfläche:
 Diese besteht im Grunde durchgehen, ob nun im Vordergrund oder im Hintergrund. Sie beinhaltet eine Menüleiste mit 4 (bzw. 5) Funktionsfeldern. 
 Zum einen "Spiel", welches das Spiel an sich in einem neuen Fenster innerhalb der Hauptoberfläche öffnet.
 "Hintergrund/Wiki" für Infomationen zu dem Original Spiel (evtl, bzw in Überlegung)
@@ -35,3 +35,16 @@ Grund: "Weil sich das so gehört"? Informationen über die Entwickler gehoren be
 Soll ein Fenster mit Informationen zu dem Spieler (Character) öffnen. Dazu gehören die Stats, eventuell eine Beschreibung sowie zu zur Verfügung stehenden Skills.
 Es war erst die überlegung dieses Fenster am Bildrand zu verankern, aber letztendlich haben für uns für einen Menü-Unterpunkt entschieden. Einfach der Übersicht wegen.
 Grund: Die Spieler sollen Informationen zum aktuellen Stand (stats) ihrer Charactere bekommen.
+
+=== Kommentar Alpers, nov 27 ===
+
+Liebe/r Studierende/r,
+
+die Dokumentation soll dazu dienen, dass auch Sie kontinuierlich prüfen können, warum Sie wann welche Entscheidungen bei der Entwicklung getroffen haben. Um den zeitlichen Ablauf besser überblicken zu können, können Sie entweder getrennte Dateien oder Zeitstempel im Dokument nutzen, aber eines von beidem sollte enthalten sein.
+
+Gut, dass Sie alle Dateien tatsächlich über das Repository verwalten und hier regelmäßig Ihre Änderungen einpflegen.
+
+Und warum haben Sie die selbe HTML-Datei unter fünf verschiedenen Namen gespeichert?
+
+Viele Grüße,
+Markus Alpers

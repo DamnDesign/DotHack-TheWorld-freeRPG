@@ -1,4 +1,4 @@
-Da wir ein Rollenspiel machen wollen, sollte man sich in die Seite einloggen können.
+﻿Da wir ein Rollenspiel machen wollen, sollte man sich in die Seite einloggen können.
 Ebenfalls möchte man Charaktereigenschaften haben, welche bei bestimmten Aktionen benötigt werden (Stats), welche in einem Charakterbogen festgehalten werden.
 Damit das Spiel nicht zu eintönig wird, kann man an bestimmten Orten Zufallevents einprogramieren.
 
@@ -13,3 +13,7 @@ Also:
 -Charakterbogen
 -Zufallevents
 -Kontaktformular
+
+=== Feedback Alpers, Dez. 1 ===
+
+Schön, dass Sie Ihren Code ins HTML integriert haben. Bitte achten Sie noch darauf, kontinuierlich zu dokumentieren, was Sie warum geändert haben.
