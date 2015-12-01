@@ -17,3 +17,12 @@ Also:
 === Feedback Alpers, Dez. 1 ===
 
 Schön, dass Sie Ihren Code ins HTML integriert haben. Bitte achten Sie noch darauf, kontinuierlich zu dokumentieren, was Sie warum geändert haben.
+
+=== Stand 1. Dez 15 ===
+
+Login ist als Überprüfung fertig (ohne Datenbanken nur mit dem User: Admin und dem Passwort: admin)
+Kontaktformular ist fertig (bei einem Uplöad auf einen Webspace sollte noch eine Service E-Mail-Adresse festgelegt werden)
+
+Nächster schritt:
+Charakterbogen und Stats
+-Diese werden als gesonderte Dateien geschrieben und auf den richtigen Seiten (eingeloggt und im Spiel) eingebunden.
