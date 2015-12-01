@@ -26,7 +26,6 @@ Kontakt:
 Öffnet ein Fenster mit einem Kontaktformular.
 Grund: Zur Mitteilung bei Buggs, Fehler oder ähnlichem.
 
-
 About us:
 Dieser Menüpunkt soll ein Fenster mit Informationen über uns (die Entwickler) öffnen.
 Grund: "Weil sich das so gehört"? Informationen über die Entwickler gehoren bei Spielen, auch bei Browsergames einfach dazu.
@@ -35,6 +34,53 @@ Grund: "Weil sich das so gehört"? Informationen über die Entwickler gehoren be
 Soll ein Fenster mit Informationen zu dem Spieler (Character) öffnen. Dazu gehören die Stats, eventuell eine Beschreibung sowie zu zur Verfügung stehenden Skills.
 Es war erst die überlegung dieses Fenster am Bildrand zu verankern, aber letztendlich haben für uns für einen Menü-Unterpunkt entschieden. Einfach der Übersicht wegen.
 Grund: Die Spieler sollen Informationen zum aktuellen Stand (stats) ihrer Charactere bekommen.
+
+
+
+
+======= Stand: 01.12.2015 =======
+
+Hauptoberfläche: 
+Grundgerüst fertig, Änderungen je nach Bedarf aber noch möglich. Derzeit eigentlich nur "5 gleiche Dateien" weil ich bei jeder Seite das Menü haben wollte. Da in diesem Teil noch keine Inhalte stehen sind die Webseiten bisher leer, also dank dem Menü "gleich". Das wird sich ändern sobald wir die Inhalte haben, aber die stehen weiter unten auf der Liste. Die Dateien bestehen aber der Übersicht halber bereits. Das soll so, wird noch bearbeitet
+
+Menü: 
+Fertig, Änderungen nur bei Problemen vorgesehen. CSS wurde erst einmal in /* */ gesetzt, also derzeit wenig Gestaltung/Layout vorhanden.
+
+"Spiel": 
+Seite mit dem Link zum Spiel ist fertig. Überlegungen hier auch die Login-Funktion via Php einzubauen.
+
+Hintergund/Wiki: 
+0%, steht ganz am Ender der Liste (da hauptsächlich Inhalt und weniger HTML)
+
+Kontakt: 
+Fertig.
+
+About us: 
+0%
+
+Characterbogen: 
+0%
+
+Zum Spiel Selbst:
+- Grundgerüst (Standorte im Spiel) zu 90% fertig (1-2 der "Orte" sind erstellt und Verlinkt)
+- Das Spiel ist mit der Hauptseite verlinkt
+
+To DO:
+- die fehlenden 10% der Seiten erstellen, + ein paar mehr "Felder" (mit Inhalten damit es keine Kopien der bisher bestehenden sind!
+- Die "game_"-Dateien bekommen einen eigenen Ordner - Die Übersicht im "Umsetzung"-Ordner ist derzeit nicht gut
+- Inhalte für die Menü-Seiten (inklusive "index.html". WICHTIG!!!
+- Die Händler ("game_waffenhaendler.html", ...) brauchen "Waren" und eine Funktion (Item-System)
+- "Kampf"-Dateien erstellen (Anfänge des Kampf-Systems zusammen mit Php)
+- Inhalte für die game_ Dateien. (ganz am Ende der Liste, zuerst hauptsächlich [PLATZHALTER] statt richtiger Text geplant)
+- Überlegung: eine extra Datei für Update/Patchnotes-Datei erstellen?
+- Character-Sheet. Aufbau, Stat-System und Mechaniken in Php
+
+===========================
+
+
+
+
+
 
 === Kommentar Alpers, nov 27 ===
 
