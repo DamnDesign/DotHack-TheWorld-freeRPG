@@ -64,6 +64,7 @@ Characterbogen:
 Zum Spiel Selbst:
 - Grundgerüst (Standorte im Spiel) zu 90% fertig (1-2 der "Orte" sind erstellt und Verlinkt)
 - Das Spiel ist mit der Hauptseite verlinkt
+- Dateien haben einen extra Ordner "game" bekommen
 
 To DO:
 - die fehlenden 10% der Seiten erstellen, + ein paar mehr "Felder" (mit Inhalten damit es keine Kopien der bisher bestehenden sind!
@@ -76,6 +77,7 @@ To DO:
 
 Update (13.12.2015)
 - Inhalte ins Wiki hinzugefügt (Die Seite ist nicht mehr leer!)
+- game_ Dateien in einen neuen Ordner "game" verschoben, die Links werden noch angepasst
 ===========================
 
 
