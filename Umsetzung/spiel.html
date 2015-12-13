@@ -20,8 +20,61 @@
 		</nav>
 		
 		<main>
-			<a href="game/game_login.html" target="_blank">Starte The World</a> <!-- Hier gehts zum Spiel! -->
-		<main> 
+			<section>
+			<p>Du bist nicht eingeloggt. Um auf das Spiel zuzugreifen logge dich mit deinen Accountdaten ein</p>
+				
+			<?php
+				$user = isset($_POST['user']) ? $_POST['user'] : "";
+				$pw = isset($_POST['pw']) ? $_POST['pw'] : "";
+			?>
+				<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" name="formular">
+					<p>
+						<label>User-Name</label><br />      
+						<input type="text" name="user" value="<?php echo $user; ?>" />
+					</p>
+					<p>
+						<label>Passwort</label><br />      
+						<input type="password" name="pw" value="<?php echo $pw; ?>" />
+					</p>
+					<p>     
+					<input type="submit" name="senden" value="Senden" />
+					</p> 
+				</form>
+
+			<?php
+			if(isset($_POST['senden']))
+			{
+				$user = $_POST['user'];
+				$pw = $_POST['pw'];
+					
+				if($user != "" && $pw != "")
+					{
+						if($user != "admin" || $pw != "admin")
+						{
+							
+						echo "Der User-Name oder das Passwort ist falsch.";
+						}
+						
+						else
+						{
+							?>
+								<section>
+									<p>Sie sind eingeloggt.</p>
+								</section>
+							<?php
+						}
+					}
+				else
+				{
+				echo "Bitte loggen Sie sich ein.";
+				}
+			}
+			?>
+				
+			</section>
+			
+			
+		</main>
 	</body>
 </html>
 
@@ -38,4 +91,6 @@ Update: Da die 'Spiel'-Seiten jetzt fertig sind hab ich hier den Link hinzugefü
 Menü, sondern in einem neuen Fenster.
 update2: auch hier nav und main eingesetzt.
 update3: Den Link für den "game" Unterordner angepasst.
+update4: Ich habe mal den Login von Alisa (Php) direkt hier eingefügt. (und das <div> duch <section> ersetzt>. Ist das so in Ordnung? Ich kenn mich mit Php überhauptnicht aus
+	wenn etwas nicht funktioniert werde ich das nicht mitbekommen...
 -->
