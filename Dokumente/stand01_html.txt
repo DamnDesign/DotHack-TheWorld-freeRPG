@@ -38,7 +38,7 @@ Grund: Die Spieler sollen Informationen zum aktuellen Stand (stats) ihrer Charac
 
 
 
-======= Stand: 01.12.2015 =======
+======= Stand: 13.12.2015 =======
 
 Hauptoberfläche: 
 Grundgerüst fertig, Änderungen je nach Bedarf aber noch möglich. Derzeit eigentlich nur "5 gleiche Dateien" weil ich bei jeder Seite das Menü haben wollte. Da in diesem Teil noch keine Inhalte stehen sind die Webseiten bisher leer, also dank dem Menü "gleich". Das wird sich ändern sobald wir die Inhalte haben, aber die stehen weiter unten auf der Liste. Die Dateien bestehen aber der Übersicht halber bereits. Das soll so, wird noch bearbeitet
@@ -50,7 +50,7 @@ Fertig, Änderungen nur bei Problemen vorgesehen. CSS wurde erst einmal in /* */
 Seite mit dem Link zum Spiel ist fertig. Überlegungen hier auch die Login-Funktion via Php einzubauen.
 
 Hintergund/Wiki: 
-0%, steht ganz am Ender der Liste (da hauptsächlich Inhalt und weniger HTML)
+98%, eventell noch Verlinkungen innerhalb des Dokuments, ansonsten DONE!
 
 Kontakt: 
 Fertig.
@@ -68,18 +68,15 @@ Zum Spiel Selbst:
 To DO:
 - die fehlenden 10% der Seiten erstellen, + ein paar mehr "Felder" (mit Inhalten damit es keine Kopien der bisher bestehenden sind!
 - Die "game_"-Dateien bekommen einen eigenen Ordner - Die Übersicht im "Umsetzung"-Ordner ist derzeit nicht gut
-- Inhalte für die Menü-Seiten (inklusive "index.html". WICHTIG!!!
+- Inhalte für die Menü-Seiten (inklusive "index.html". WICHTIG!!!)
 - Die Händler ("game_waffenhaendler.html", ...) brauchen "Waren" und eine Funktion (Item-System)
 - "Kampf"-Dateien erstellen (Anfänge des Kampf-Systems zusammen mit Php)
 - Inhalte für die game_ Dateien. (ganz am Ende der Liste, zuerst hauptsächlich [PLATZHALTER] statt richtiger Text geplant)
-- Überlegung: eine extra Datei für Update/Patchnotes-Datei erstellen?
 - Character-Sheet. Aufbau, Stat-System und Mechaniken in Php
 
+Update (13.12.2015)
+- Inhalte ins Wiki hinzugefügt (Die Seite ist nicht mehr leer!)
 ===========================
-
-
-
-
 
 
 === Kommentar Alpers, nov 27 ===
