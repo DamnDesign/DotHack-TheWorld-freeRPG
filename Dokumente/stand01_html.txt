@@ -68,7 +68,6 @@ Zum Spiel Selbst:
 
 To DO:
 - die fehlenden 10% der Seiten erstellen, + ein paar mehr "Felder" (mit Inhalten damit es keine Kopien der bisher bestehenden sind!
-- Die "game_"-Dateien bekommen einen eigenen Ordner - Die Übersicht im "Umsetzung"-Ordner ist derzeit nicht gut
 - Inhalte für die Menü-Seiten (inklusive "index.html". WICHTIG!!!)
 - Die Händler ("game_waffenhaendler.html", ...) brauchen "Waren" und eine Funktion (Item-System)
 - "Kampf"-Dateien erstellen (Anfänge des Kampf-Systems zusammen mit Php)
@@ -78,8 +77,8 @@ To DO:
 Update (13.12.2015)
 - Inhalte ins Wiki hinzugefügt (Die Seite ist nicht mehr leer!)
 - game_ Dateien in einen neuen Ordner "game" verschoben, die Links werden noch angepasst
+- Alisas Login-datei in spiel.html eingebaut, falls das richtig ist dasselbe auch mit character.html
 ===========================
-
 
 === Kommentar Alpers, nov 27 ===
 
