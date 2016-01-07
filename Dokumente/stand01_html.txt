@@ -73,6 +73,7 @@ To DO:
 - Die Händler brauchen noch eine Funktion (Item-System), eventuell per Link? --> Überlegung
 - "Kampf"-Dateien erstellen (Anfänge des Kampf-Systems zusammen mit Php)
 - Inhalte für die game_ Dateien. (ganz am Ende der Liste, zuerst hauptsächlich [PLATZHALTER] statt richtiger Text geplant)
+- Texte schreiben. Endlich mal...
 
 Update (13.12.2015)
 - Inhalte ins Wiki hinzugefügt (Die Seite ist nicht mehr leer!)
