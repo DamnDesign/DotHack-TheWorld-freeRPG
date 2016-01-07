@@ -69,7 +69,7 @@ Zum Spiel Selbst:
 To DO:
 - die fehlenden 10% der Seiten erstellen, + ein paar mehr "Felder" (mit Inhalten damit es keine Kopien der bisher bestehenden sind!
 - Inhalte für die Menü-Seiten (inklusive "index.html". WICHTIG!!!)
-- Die Händler ("game_waffenhaendler.html", ...) brauchen "Waren" und eine Funktion (Item-System)
+- Die Händler brauchen noch eine Funktion (Item-System), eventuell per Link? --> Überlegung
 - "Kampf"-Dateien erstellen (Anfänge des Kampf-Systems zusammen mit Php)
 - Inhalte für die game_ Dateien. (ganz am Ende der Liste, zuerst hauptsächlich [PLATZHALTER] statt richtiger Text geplant)
 - Character-Sheet. Aufbau, Stat-System und Mechaniken in Php
@@ -78,6 +78,10 @@ Update (13.12.2015)
 - Inhalte ins Wiki hinzugefügt (Die Seite ist nicht mehr leer!)
 - game_ Dateien in einen neuen Ordner "game" verschoben, die Links werden noch angepasst
 - Alisas Login-datei in spiel.html eingebaut, falls das richtig ist dasselbe auch mit character.html
+
+Update (07.01.2016)
+- Inhalte für die Händler eingefügt (soll heißen: zwei der Händler haben nun ein Warenangebot)
+- Waffenhändler und Rüstungshändler haben keine Waren bekommen, sondern einen Hinweis auf Abwesenheit/Inaktivität
 ===========================
 
 === Kommentar Alpers, nov 27 ===
