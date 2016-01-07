@@ -38,13 +38,13 @@ Grund: Die Spieler sollen Informationen zum aktuellen Stand (stats) ihrer Charac
 
 
 
-======= Stand: 13.12.2015 =======
+======= Stand: 07.01.2016 =======
 
 Hauptoberfläche: 
-Grundgerüst fertig, Änderungen je nach Bedarf aber noch möglich. Derzeit eigentlich nur "5 gleiche Dateien" weil ich bei jeder Seite das Menü haben wollte. Da in diesem Teil noch keine Inhalte stehen sind die Webseiten bisher leer, also dank dem Menü "gleich". Das wird sich ändern sobald wir die Inhalte haben, aber die stehen weiter unten auf der Liste. Die Dateien bestehen aber der Übersicht halber bereits. Das soll so, wird noch bearbeitet
+Grundgerüst fertig, Änderungen je nach Bedarf aber noch möglich. Derzeit noch eine 'leere' Seite. Die restlichen Seiten haben mittlerweile einen eigenen Inhalt
 
 Menü: 
-Fertig, Änderungen nur bei Problemen vorgesehen. CSS wurde erst einmal in /* */ gesetzt, also derzeit wenig Gestaltung/Layout vorhanden.
+Fertig, Änderungen nur bei Problemen vorgesehen. CSS wurde erst einmal in /* */ (auf Eis) gesetzt, also derzeit keine Gestaltung/Layout vorhanden.
 
 "Spiel": 
 Seite mit dem Link zum Spiel ist fertig. Überlegungen hier auch die Login-Funktion via Php einzubauen.
@@ -59,20 +59,20 @@ About us:
 0%
 
 Characterbogen: 
-0%
+Done, Inklusive temporärem 'Testchar' zum Ausfüllen der Tabelle
 
 Zum Spiel Selbst:
 - Grundgerüst (Standorte im Spiel) zu 90% fertig (1-2 der "Orte" sind erstellt und Verlinkt)
 - Das Spiel ist mit der Hauptseite verlinkt
 - Dateien haben einen extra Ordner "game" bekommen
+- Die Händler (bzw 2 von ihnen) haben ein Warensortiment.
 
 To DO:
-- die fehlenden 10% der Seiten erstellen, + ein paar mehr "Felder" (mit Inhalten damit es keine Kopien der bisher bestehenden sind!
-- Inhalte für die Menü-Seiten (inklusive "index.html". WICHTIG!!!)
+- 'About us' und 'Homepage' brauchen noch Inhalte. Oder 'Homepage' kommt raus, sofern mir nichts mehr einfällt was ich da rauf setzen kann....
+- Inhalte (Texte) für die Menü-Seiten (inklusive "index.html". WICHTIG!!!)
 - Die Händler brauchen noch eine Funktion (Item-System), eventuell per Link? --> Überlegung
 - "Kampf"-Dateien erstellen (Anfänge des Kampf-Systems zusammen mit Php)
 - Inhalte für die game_ Dateien. (ganz am Ende der Liste, zuerst hauptsächlich [PLATZHALTER] statt richtiger Text geplant)
-- Character-Sheet. Aufbau, Stat-System und Mechaniken in Php
 
 Update (13.12.2015)
 - Inhalte ins Wiki hinzugefügt (Die Seite ist nicht mehr leer!)
@@ -82,6 +82,7 @@ Update (13.12.2015)
 Update (07.01.2016)
 - Inhalte für die Händler eingefügt (soll heißen: zwei der Händler haben nun ein Warenangebot)
 - Waffenhändler und Rüstungshändler haben keine Waren bekommen, sondern einen Hinweis auf Abwesenheit/Inaktivität
+- Character-Sheet/Statuswerte hinzugefügt (eventuell fehlt noch was, um 22 Uhr vergisst man gelegentlich Dinge)
 ===========================
 
 === Kommentar Alpers, nov 27 ===
