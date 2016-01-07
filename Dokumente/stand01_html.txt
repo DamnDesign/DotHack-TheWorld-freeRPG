@@ -44,7 +44,11 @@ Hauptoberfläche:
 Grundgerüst fertig, Änderungen je nach Bedarf aber noch möglich. Derzeit noch eine 'leere' Seite. Die restlichen Seiten haben mittlerweile einen eigenen Inhalt
 
 Menü: 
-Fertig, Änderungen nur bei Problemen vorgesehen. CSS wurde erst einmal in /* */ (auf Eis) gesetzt, also derzeit keine Gestaltung/Layout vorhanden.
+Layout/Gerüst ist fertig, Änderungen nur bei Problemen vorgesehen. 
+CSS wurde erst einmal in /* */ (auf Eis) gesetzt, also derzeit keine Gestaltung/Layout vorhanden.
+
+Homepage:
+Der Menüpunkt Homepage (index.html) hat jetzt endlich auch seinen eigenen Inhalt. Kurze Beschreibung unseres Projekts. Sollte ich vermutlich noch einml Bearbeiten je nachdem wie es ankommt.
 
 "Spiel": 
 Seite mit dem Link zum Spiel ist fertig. Überlegungen hier auch die Login-Funktion via Php einzubauen.
@@ -68,11 +72,9 @@ Zum Spiel Selbst:
 - Die Händler (bzw 2 von ihnen) haben ein Warensortiment.
 
 To DO:
-- 'About us' und 'Homepage' brauchen noch Inhalte. Oder 'Homepage' kommt raus, sofern mir nichts mehr einfällt was ich da rauf setzen kann....
-- Inhalte (Texte) für die Menü-Seiten (inklusive "index.html". WICHTIG!!!)
-- Die Händler brauchen noch eine Funktion (Item-System), eventuell per Link? --> Überlegung
-- "Kampf"-Dateien erstellen (Anfänge des Kampf-Systems zusammen mit Php)
-- Inhalte für die game_ Dateien. (ganz am Ende der Liste, zuerst hauptsächlich [PLATZHALTER] statt richtiger Text geplant)
+- 'About us' braucht noch Inhalte.
+- "Kampf"-Text?-Dateien erstellen (Anfänge des Kampf-Systems zusammen mit Php)
+- Inhalte/Text für die game_ Dateien. (ganz am Ende der Liste, zuerst hauptsächlich [PLATZHALTER] statt richtiger Text geplant)
 - Texte schreiben. Endlich mal...
 
 Update (13.12.2015)
@@ -84,6 +86,7 @@ Update (07.01.2016)
 - Inhalte für die Händler eingefügt (soll heißen: zwei der Händler haben nun ein Warenangebot)
 - Waffenhändler und Rüstungshändler haben keine Waren bekommen, sondern einen Hinweis auf Abwesenheit/Inaktivität
 - Character-Sheet/Statuswerte hinzugefügt (eventuell fehlt noch was, um 22 Uhr vergisst man gelegentlich Dinge)
+- Inhalt für index.html - Der Text ist zum Tei (abgesehen von den ersten zwei Sätzen) direkt aus Alisas Readme-Datei kopiert.
 ===========================
 
 === Kommentar Alpers, nov 27 ===
