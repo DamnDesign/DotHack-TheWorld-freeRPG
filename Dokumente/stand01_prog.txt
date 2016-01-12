@@ -26,3 +26,9 @@ Kontaktformular ist fertig (bei einem Uplöad auf einen Webspace sollte noch ein
 Nächster schritt:
 Charakterbogen und Stats
 -Diese werden als gesonderte Dateien geschrieben und auf den richtigen Seiten (eingeloggt und im Spiel) eingebunden.
+
+=== Feedback Alpers, Jan. 12 ===
+
+Bei Ihrem Teil fehlt leider noch einiges. Aber es ist schon einmal sehr gut, dass Sie die Integration des Log-In so weit ausgearbeitet haben. Was jetzt noch fehlt, sind die eigentlichen Funktionalitäten des Spiels.
+
+=== Feedback Alpers, Ende ===
